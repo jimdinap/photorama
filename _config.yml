@@ -1,9 +1,9 @@
 # Site settings
 title: PHOTORAMA
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Jimmy Photo Journal"
+url: "https://jimdinap.github.io"
+baseurl: "/photorama_Jimmy_test"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
